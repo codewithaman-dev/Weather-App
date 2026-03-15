@@ -7,7 +7,7 @@ Users can search for a city and instantly see the **temperature, humidity, and w
 
 ## Live Demo
 
-https://codewithaman-dev.github.io/weather-app/
+https://codewithaman-dev.github.io/Weather-App/
 
 ---
 
