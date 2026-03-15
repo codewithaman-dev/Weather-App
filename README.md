@@ -43,7 +43,7 @@ weather-app
 
 ## Screenshot
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weatherapp.png)
 
 ---
 
